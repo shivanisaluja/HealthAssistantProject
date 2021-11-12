@@ -1,0 +1,4 @@
+ Diseases associated with chest pain are:
+*pneumonia
+*cardiovascular disease
+*cornary artery disease
